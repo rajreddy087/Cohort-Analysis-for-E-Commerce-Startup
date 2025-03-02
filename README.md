@@ -36,3 +36,7 @@ The following tables were used to derive insights:
 ## Conclusion
 This cohort analysis helps identify key patterns in customer retention and sales behavior, providing insights for customer acquisition strategies, retention improvement, and targeted marketing efforts. The trends observed can guide future business decisions aimed at increasing customer lifetime value and optimizing revenue generation.
 
+![image](https://github.com/user-attachments/assets/8900536b-f379-4c21-bc2f-4de48d855c0a)
+![image](https://github.com/user-attachments/assets/d6fb2b88-83d3-47c8-909e-5b34fad5ccdc)
+
+
